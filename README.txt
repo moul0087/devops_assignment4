@@ -8,12 +8,13 @@ to run the program locally:
 python3 Devops_Assignment4.py
 no other dependencies are required.
 
-to build into a Docker image and run through a Docker container:
-docker build -t devops_assignment4
+to run through Docker:
+docker pull moul0087/devops_assignment4
 docker run -it --rm devops_asssignment4
 
 GITHUB REPO:
 https://github.com/moul0087/devops_assignment4
 
 DOCKER HUB IMAGE:
+
 https://hub.docker.com/r/moul0087/devops_assignment4
